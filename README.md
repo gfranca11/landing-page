@@ -1,10 +1,39 @@
-# landing page
+<h1 align="center">
+     📰
+LANDING-PAGE 
 
-> landing page Feita Com HTML CSS JAVASCRIPT
-<img src="https://github.com/gfranca11/landing-page/blob/main/Anima%C3%A7%C3%A3o.gif" alt="landing page">
+</h1>
 
-### Tecnologias utilizadas
+<h5 align="center">
+  UMA LANDING-PAGE FETA COM HTML  CSS  E JAVASCRIPT
+  </h5>
 
-- [x] HTML
-- [x] CSS
-- [x] JAVASCRIPT
+## 🖥 Antevisão 
+<img src="https://github.com/gfranca11/landing-page/blob/main/Anima%C3%A7%C3%A3o.gif">
+ 
+ 📌 Ajustes e melhorias
+ 
+ - [ ] FAZER UM LINK DE PARA COMPRA 
+ 
+
+ 
+ 
+ ## 🧐 Gostou ?
+ 
+ > Clone o repositório e de sua estrelinha ;]
+   
+        $ https://github.com/gfranca11/landing-page
+        $ cd landing-page
+        
+ 
+ 
+## 💻 Tecnologias utilizadas
+
+Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+
+ * Visual Studio Code (Editor de código);
+
+* HTML;
+* CSS;
+* JAVASCRIPT;
+
