@@ -22,7 +22,7 @@ LANDING-PAGE
  
  > Clone o repositório e de sua estrelinha ;]
    
-        $ https://github.com/gfranca11/landing-page
+        $ git clone https://github.com/gfranca11/landing-page
         $ cd landing-page
         
  
